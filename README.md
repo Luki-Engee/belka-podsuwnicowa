@@ -1,5 +1,11 @@
 # Belka podsuwnicowa — Arkusz wymiarowania v3.0
 
+## 🚀 Aplikacja online
+
+**[Otwórz kalkulator →](https://luki-engee.github.io/belka-podsuwnicowa/)**
+
+---
+
 Aplikacja do wstępnego wymiarowania belek podsuwnicowych natorowych
 wg **PN-EN 1991-3**, **PN-EN 1993-6** i **EC3-1-1 §6.3.2** (zwichrzenie).
 
