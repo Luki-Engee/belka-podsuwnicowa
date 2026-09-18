@@ -1,5 +1,7 @@
 # Belka podsuwnicowa — Arkusz wymiarowania v3.0
 
+[![Deploy to GitHub Pages](https://github.com/Luki-Engee/belka-podsuwnicowa/actions/workflows/deploy.yml/badge.svg)](https://github.com/Luki-Engee/belka-podsuwnicowa/actions/workflows/deploy.yml)
+
 ## 🚀 Aplikacja online
 
 **[Otwórz kalkulator →](https://luki-engee.github.io/belka-podsuwnicowa/)**
